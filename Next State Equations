@@ -1,0 +1,9 @@
+Next State Equations:
+Main FSM:
+D2=P
+D1=(P'Q2')(Q1T'+Q0TQ1')
+D0=(P'Q2')(Q0T'+QwalkQ1T'+T(Q0Q1)')
+
+Button Memory:
+DWalk= Qwalk
+SetWalk= W(Q2'Q1Q0')
