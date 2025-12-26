@@ -12,12 +12,14 @@ This was made as a digital logic / state machine course project to practice **FS
 ---
 
 ## Demo / Screenshots
-> Add screenshots or a GIF here (highly recommended for recruiters)
+Logisim Simulation
+<img width="642" height="776" alt="FSM Traffic Light System Logisim Schematic" src="https://github.com/user-attachments/assets/a7d4e58c-3476-4afe-be38-59fff49dbb47" />
 
-- `docs/screenshot.png`
-- `docs/waveform.png` (optional)
+Timing Diagram
+<img width="1003" height="308" alt="image" src="https://github.com/user-attachments/assets/8f168387-161b-440c-a4a1-04a22434c445" />
 
----
+Simulated Circuit Video
+
 
 ## Features
 - Cycles through **Green → Yellow → Red → Green** on a clock/timer
@@ -29,7 +31,6 @@ This was made as a digital logic / state machine course project to practice **FS
 ---
 
 ## How It Works
-
 ### Inputs
 - `CLK` — clock input (drives state transitions)
 - `RESET` — resets FSM to Green
