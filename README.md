@@ -13,6 +13,8 @@ This was made as a digital logic / state machine course project to practice **FS
 
 ## Demo / Screenshots
 Logisim Simulation
+
+
 <img width="642" height="776" alt="FSM Traffic Light System Logisim Schematic" src="https://github.com/user-attachments/assets/a7d4e58c-3476-4afe-be38-59fff49dbb47" />
 
 Timing Diagram
