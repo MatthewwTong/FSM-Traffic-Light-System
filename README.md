@@ -15,7 +15,8 @@ This was made as a digital logic / state machine course project to practice **FS
 Logisim Simulation
 
 
-<img width="642" height="776" alt="FSM Traffic Light System Logisim Schematic" src="https://github.com/user-attachments/assets/a7d4e58c-3476-4afe-be38-59fff49dbb47" />
+<img width="885" height="784" alt="image" src="https://github.com/user-attachments/assets/02f7a8c2-c922-47f9-8d1e-a81a0bdf3298" />
+
 
 Timing Diagram
 <img width="1003" height="308" alt="image" src="https://github.com/user-attachments/assets/8f168387-161b-440c-a4a1-04a22434c445" />
